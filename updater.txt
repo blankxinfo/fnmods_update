@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "hk_update": [
     {
  "version":"9.62",
  "title":"Update Disponible",
